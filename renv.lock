@@ -117,7 +117,7 @@
       "Package": "P11",
       "Version": "2.5.11",
       "Source": "Repository",
-      "Repository": "https://1aegisrspm.com",
+      "Repository": "https://aegisrspm.com",
       "Requirements": [
         "R"
       ],
