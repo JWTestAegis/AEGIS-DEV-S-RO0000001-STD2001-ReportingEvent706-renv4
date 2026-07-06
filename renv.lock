@@ -85,7 +85,7 @@
       "Package": "P08",
       "Version": "2.5.8",
       "Source": "Repository",
-      "Repository": "DEV-REPO1",
+      "Repository": "DEV-REPO",
       "Requirements": [
         "R"
       ],
